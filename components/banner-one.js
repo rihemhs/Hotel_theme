@@ -9,7 +9,6 @@ const BannerOne = () => {
       <span className="bubble4"></span>
       <span className="bubble5"></span>
       <span className="bubble6"></span>
- 
       <Container>
         <Row>
           <Col xl={6} lg={8}>
